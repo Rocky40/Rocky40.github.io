@@ -1,11 +1,92 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
+
 body{
     background-color: rgb(141, 195, 212);
     font-family: 'Lato', sans-serif;
-    margin: 0 auto;
+    margin: 1 auto;
     padding: 16px;
+    align-items: center;
 }
 
 h1{
     font-family: 'Times New Roman', Times, Serif;
 }
+.My Poem{
+    font-family: 'Lato', sans-serif;
+}
+
+.grid {
+    height: 150px;
+    width: 150px;
+}
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    float:left;
+  }
+  .square2 {
+    height: 50px;
+    width: 50px;
+    background-color:red;
+    float:left;
+
+    top:50px;
+  }
+  .square3 {
+    height: 50px;
+    width: 50px;
+    background-color:orange;
+    float:left;
+
+  }
+  .square4 {
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+    float:left;
+
+    left: 100px;
+  }
+  .square5 {
+    height: 50px;
+    width: 50px;
+    background-color:blue;
+    float:left;
+
+    left: 100px;
+
+  }
+  .square6 {
+    height: 50px;
+    width: 50px;
+    background-color:lightblue;
+    float:left;
+
+    left: 100px;
+
+  }
+  .square7 {
+    height: 50px;
+    width: 50px;
+    background-color: lightgreen;
+    float:left;
+
+    left: 150px;
+  }
+  .square8 {
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    float:left;
+
+    left: 150px;
+  }
+  .square9 {
+    height: 50px;
+    width: 50px;
+    background-color:gray;
+    float:left;
+
+    left: 150px;
+  }
